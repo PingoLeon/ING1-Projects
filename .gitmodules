@@ -1,0 +1,9 @@
+[submodule "S2 - [Electro] Piano"]
+	path = S2 - [Electro] Piano
+	url = https://github.com/PingoLeon/ING1S2-PROJET-ELECTRO.git
+[submodule "S2 - [Algo] Nintendeau"]
+	path = S2 - [Algo] Nintendeau
+	url = https://github.com/ING1-Paris/ece-world-paris-ing1-2022-2023-nintendeau.git
+[submodule "S1 - [Algo] Labyrinthe"]
+	path = S1 - [Algo] Labyrinthe
+	url = https://github.com/PingoLeon/ING1S1-Labyrinthe-le-jeu.git
