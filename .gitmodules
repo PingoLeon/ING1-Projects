@@ -7,3 +7,6 @@
 [submodule "S1 - [Algo] Labyrinthe"]
 	path = S1 - [Algo] Labyrinthe
 	url = https://github.com/PingoLeon/ING1S1-Labyrinthe-le-jeu.git
+[submodule "S2 - [SimNum] PyPhysique"]
+	path = S2 - [SimNum] PyPhysique
+	url = https://github.com/PingoLeon/ING1S2-SimNum.git
